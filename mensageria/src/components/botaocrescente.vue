@@ -43,6 +43,7 @@
     height: 100px;
     width: 0px;
     background-color: #08b363;
+    transition: 1.5s;
     overflow: hidden;
     display: flex;
     justify-content: center;
