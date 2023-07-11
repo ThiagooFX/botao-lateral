@@ -5,7 +5,7 @@
         <button id="seta" @click="largura" v-if="ativo == false">@</button>
         <button id="seta" @click="voltar" v-if="ativo == true">@</button>
       </div>
-      <div class="elemento1" id="elemento1">ouiroinrgunrgupirfdiupb</div>
+      <div class="elemento1" id="elemento1">Mensagem teste na barra do botão</div>
     </div>
   </div>
 </template>
@@ -43,7 +43,6 @@
     height: 100px;
     width: 0px;
     background-color: #08b363;
-    transition: 1.5s;
     overflow: hidden;
     display: flex;
     justify-content: center;
