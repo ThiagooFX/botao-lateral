@@ -5,7 +5,7 @@
         <button id="seta" @click="largura" v-if="ativo == false">@</button>
         <button id="seta" @click="voltar" v-if="ativo == true">@</button>
       </div>
-      <div class="elemento1" id="elemento1">Mensagem teste na barra do botão</div>
+      <div class="elemento1" id="elemento1">Mensagemtestenabarradobotão</div>
     </div>
   </div>
 </template>
